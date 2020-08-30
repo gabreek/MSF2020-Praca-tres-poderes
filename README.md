@@ -7,7 +7,7 @@ Extrair na pasta Community
 Criado por Gabriel Negrisiolo Righi extraido do Google Maps, todos os direitos pertencem ao Google.
 
 
-
+Download: [Clique Aqui!](https://github.com/gabreek/MSF2020-Praca-tres-poderes/blob/master/Pra%C3%A7a%20dos%20Tr%C3%AAs%20Poderes%20-%20MFS2020.rar)
 
 ## Doações
 Se quiser me incentivar a continuar convertendo mais cenários e no futuro localides inteiras, pode me pagar um café!
