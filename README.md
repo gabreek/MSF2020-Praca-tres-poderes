@@ -10,6 +10,9 @@ Extrair na pasta Community
 
 Download: [Clique Aqui!](https://github.com/gabreek/MSF2020-Praca-tres-poderes/raw/master/Pra%C3%A7a%20dos%20Tr%C3%AAs%20Poderes%20-%20MFS2020.rar)
 
+### Ainda falta:
+** Nivelamento do solo correto.
+
 ### Doações
 Se quiser me incentivar a continuar convertendo mais cenários e no futuro localidades inteiras, pode me pagar um café!
 
