@@ -16,7 +16,10 @@ Download: [Clique Aqui!](https://github.com/gabreek/MSF2020-Praca-tres-poderes/r
 ### Doações
 Se quiser me incentivar a continuar convertendo mais cenários e no futuro localidades inteiras, pode me pagar um café!
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=28W4VUQQ558U2)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://doacaolegal.com.br/c/cenarios-msf-s2020)
+(deu um bug no meu paypal eu troquei o metodo por enquanto
+
+
 
 ## Imagens
 ![Screenshot 5](/5.png)
