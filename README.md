@@ -8,7 +8,7 @@ Criado por Gabriel Negrisiolo Righi extraido do Google Maps, todos os direitos p
 * Instalação: 
 Extrair na pasta Community
 
-Download: [Clique Aqui!](https://github.com/gabreek/MSF2020-Praca-tres-poderes/raw/master/Pra%C3%A7a%20dos%20Tr%C3%AAs%20Poderes%20-%20MFS2020.rar)
+Download: [Clique Aqui!](https://github.com/gabreek/MSF2020-Praca-tres-poderes/releases/download/0.9/Praca.dos.Tres.Poderes.-.MFS2020.rar)
 
 ### Updates Futuros:
 * Nivelamento do solo correto.
